@@ -155,7 +155,7 @@ let UpdateClient = () => {
                         <div className="flex w-full flex-col md:ml-12 md:mt-0 mt-8">
                           <label
                             for="lname"
-                            className="mb-3 text-sm leading-none text-gray-800"
+                            className="mb-4 text-sm leading-none text-gray-800"
                           >
                             Last name
                           </label>
